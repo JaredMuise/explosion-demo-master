@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rock
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rock\ here.\r\n\ \r\n\ @author\ (Jared\ Muise)\r\n\ Teacher\ Mr.Hardman\r\n\ Lab\ \#2\ Explosion\ \r\n\ Date\ Last\ Modified\:\ March\ 23th/2017\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Rock\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ explode()
+comment2.text=\r\n\ \ The\ rock\ explodes\ into\ a\ bunch\ of\ pices.\r\n\ \ \r\n\ \ @param\ there\ are\ no\ parameters.\r\n\ \ @return\ there\ is\ nothing\ to\ return.\r\n
+numComments=3
